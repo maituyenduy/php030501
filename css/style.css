@@ -1,0 +1,27 @@
+/* 
+    Document   : style
+    Created on : May 28, 2015, 7:42:53 PM
+    Author     : Longnh
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+
+.header {
+    background: #269abc;
+}
+
+.main { 
+    background: #777;
+}
+
+.footer { 
+    background: tomato;
+}
+
+.main .item img {
+    width: 100%;
+}
